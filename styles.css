@@ -1,22 +1,12 @@
 * {
-  background-color: whitesmoke;
+  background-color: yellow;
   min-height: 100%;
   display: flex;
   padding: 0;
   margin: 0;
 }
 
-.code-area iframe {
-  min-width: 33%;
-  background-color: red;
-}
-
-.notes iframe {
-  background-color: blue;
-  min-width: 33%;
-}
-
-.preview-area iframe {
-  background-color: green;
-  min-width: 33%;
+h1 {
+  font-size: 5em;
+  align-items: center;
 }
